@@ -3,6 +3,8 @@ This repository contains all programming problem's solution what i solved in var
 
  ## Solve Count ##
 
+**I've solved 400+ problems. In the following table i've mentioned solve count according to online judge or medium.**
+
 Judges/Medium | Solve Count | Profile Link / ID
 | :--- | ---: | :---:
 URI-beecrowd  | 162 | [ruhul_kuddus](https://www.beecrowd.com.br/judge/en/profile/549219)
@@ -17,8 +19,6 @@ UVA   | 22 | 1218971
 Timus    | 16 | [319948GN](https://acm.timus.ru/search.aspx?Str=Md+Ruhul+Kuddus)
 Hackerrank   | 2 | [ruhul_kuddus](https://www.hackerrank.com/ruhul_kuddus)
 Leetcode   | 8 | [ruhul_kuddus](https://leetcode.com/ruhul_kuddus/)
-
-
 
 
  > Stopstalk Rivew - [ruhul_ss](https://www.stopstalk.com/user/profile/ruhul_ss)
