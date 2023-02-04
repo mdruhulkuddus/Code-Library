@@ -21,6 +21,6 @@ Hackerrank   | 2 | [ruhul_kuddus](https://www.hackerrank.com/ruhul_kuddus)
 Leetcode   | 8 | [ruhul_kuddus](https://leetcode.com/ruhul_kuddus/)
 
 
- > Stopstalk Rivew - [ruhul_ss](https://www.stopstalk.com/user/profile/ruhul_ss)
+ > **Stopstalk** Rivew - [ruhul_ss](https://www.stopstalk.com/user/profile/ruhul_ss)
  
- > Vjudge Rivew -  [ruhul15](https://vjudge.net/user/ruhul15)
+ > **Vjudge** Rivew -  [ruhul15](https://vjudge.net/user/ruhul15)
